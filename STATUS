@@ -1,0 +1,23 @@
+#STATUS
+
+Xiao Chen: xcg3264
+Xiaonan Luo: xlc3514
+
+
+#Nov 2
+
+DONE: Task1 Parallel port character device driver with interrupt
+TODO: Task 2-6
+
+#Nov 3
+
+DONE: Task 2&3 Setting up the virtual machine with initial output
+TODO: Task 4, 5, 6
+
+#Nov 6
+
+DONE: Task 4, 5, 6 Drawing pixels, boxes, and images; Copying image; Setting clipping box
+
+#Nov 8
+
+DONE: All, fix some bugs
